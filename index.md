@@ -11,3 +11,8 @@
 
 ``` html
 <header> <h1>Hey</h1> </header>
+```
+- [x] Learn HTML
+- [ ] Learn CSS
+- [ ] Learn javascript
+- [ ] Finish learning GitHub
